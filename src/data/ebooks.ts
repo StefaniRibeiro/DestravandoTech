@@ -145,33 +145,33 @@ export const ebooks: Ebook[] = [
 
 export const faqItems: FaqItem[] = [
   {
-    question: 'Os ebooks são realmente gratuitos?',
+    question: 'Os e-books são realmente gratuitos?',
     answer:
-      'Sim! Todos os ebooks da Destravando Tech são 100% gratuitos. Acreditamos que o conhecimento em tecnologia deve ser acessível a todos, independente de condição financeira.',
+      'Sim! Todos os e-books da Destravando Tech são 100% gratuitos. Acreditamos que o conhecimento em tecnologia deve ser acessível a todos, independente de condição financeira.',
   },
   {
-    question: 'Qual nível de conhecimento preciso ter para ler os ebooks?',
+    question: 'Qual nível de conhecimento preciso ter para ler os e-books?',
     answer:
-      'Todos os nossos ebooks foram criados pensando em iniciantes! Você não precisa ter nenhum conhecimento prévio em TI. Os conteúdos são apresentados de forma progressiva, do mais simples ao mais complexo.',
+      'Todos os nossos e-books foram criados pensando em iniciantes! Você não precisa ter nenhum conhecimento prévio em TI. Os conteúdos são apresentados de forma progressiva, do mais simples ao mais complexo.',
   },
   {
-    question: 'Em qual formato estão os ebooks?',
+    question: 'Em qual formato estão os e-books?',
     answer:
-      'Todos os ebooks estão no formato PDF, que pode ser lido em qualquer dispositivo: computador, tablet, smartphone ou até impresso.',
+      'Todos os e-books estão no formato PDF, que pode ser lido em qualquer dispositivo: computador, tablet, smartphone ou até impresso.',
   },
   {
-    question: 'Posso compartilhar os ebooks com outras pessoas?',
+    question: 'Posso compartilhar os e-books com outras pessoas?',
     answer:
       'Sim! Incentivamos o compartilhamento do conhecimento. Você pode compartilhar os PDFs livremente com amigos, colegas e familiares. Quanto mais pessoas aprenendo tecnologia, melhor!',
   },
   {
-    question: 'Com que frequência novos ebooks são lançados?',
+    question: 'Com que frequência novos e-books são lançados?',
     answer:
       'Estamos sempre trabalhando em novos conteúdos! Fique de olho no site para novidades. Nosso objetivo é cobrir cada vez mais áreas da tecnologia de forma acessível.',
   },
   {
-    question: 'Os ebooks têm certificado?',
+    question: 'Os e-books têm certificado?',
     answer:
-      'Atualmente os ebooks não acompanham certificado. São materiais de estudo para ajudar na sua jornada de aprendizado. Para certificações oficiais, recomendamos buscar cursos formais reconhecidos pelo mercado.',
+      'Atualmente os e-books não acompanham certificado. São materiais de estudo para ajudar na sua jornada de aprendizado. Para certificações oficiais, recomendamos buscar cursos formais reconhecidos pelo mercado.',
   },
 ];

@@ -31,7 +31,7 @@ export function EbooksSection() {
             <span className="text-sm text-primary-600 font-medium">Biblioteca Gratuita</span>
           </div>
           <h2 className="text-3xl sm:text-4xl font-extrabold text-gray-900 mb-4">
-            Nossos <span className="text-primary-600">Ebooks</span>
+            Nossos <span className="text-primary-600">E-books</span>
           </h2>
           <p className="text-lg text-gray-500 max-w-2xl mx-auto">
             Materiais completos e acessíveis para você entrar ou avançar na carreira de TI.

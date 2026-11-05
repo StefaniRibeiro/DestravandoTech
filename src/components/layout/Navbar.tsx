@@ -4,7 +4,7 @@ import { Button } from '../ui/Button';
 
 const navLinks = [
   { label: 'Início', href: '#hero' },
-  { label: 'Ebooks', href: '#ebooks' },
+  { label: 'E-books', href: '#ebooks' },
   { label: 'Equipe', href: '#equipe' },
   { label: 'FAQ', href: '#faq' },
 ];
@@ -73,7 +73,7 @@ export function Navbar() {
               variant={isScrolled ? 'primary' : 'outline'}
               className={!isScrolled ? '!border-white !text-white hover:!bg-white/20' : ''}
             >
-              Ver Ebooks Grátis
+              Ver E-books Grátis
             </Button>
           </div>
 
@@ -123,7 +123,7 @@ export function Navbar() {
             ))}
             <div className="pt-2 mt-1 border-t border-gray-100">
               <Button size="sm" fullWidth onClick={() => handleNavClick('#ebooks')}>
-                Ver Ebooks Grátis
+                Ver E-books Grátis
               </Button>
             </div>
           </div>

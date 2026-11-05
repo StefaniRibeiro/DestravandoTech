@@ -55,7 +55,7 @@ export function HeroSection() {
             </h1>
 
             <p className="text-lg text-white/70 leading-relaxed mb-8 max-w-lg mx-auto lg:mx-0">
-              Ebooks gratuitos e completos sobre as principais áreas da
+              E-books gratuitos e completos sobre as principais áreas da
               tecnologia. Do zero ao profissional, no seu ritmo, sem pagar nada.
             </p>
 
@@ -66,7 +66,7 @@ export function HeroSection() {
                 className="group"
               >
                 <span>📚</span>
-                Ver todos os Ebooks
+                Ver todos os E-books
                 <svg
                   className="w-5 h-5 group-hover:translate-x-1 transition-transform"
                   fill="none"
@@ -122,11 +122,10 @@ export function HeroSection() {
 
             {/* Ebook cards preview */}
             <div className="flex gap-3">
-              {['💻', '🤖', '🔐', '🗄️'].map((icon, i) => (
+              {['💻', '🤖', '🔐', '🗄️'].map((icon) => (
                 <div
                   key={icon}
                   className="w-16 h-20 bg-white/10 backdrop-blur-sm border border-white/20 rounded-xl flex items-center justify-center text-2xl shadow-lg"
-                  style={{ transform: `rotate(${(i - 1.5) * 3}deg)` }}
                 >
                   {icon}
                 </div>

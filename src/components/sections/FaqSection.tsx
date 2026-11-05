@@ -17,7 +17,7 @@ export function FaqSection() {
             Perguntas <span className="text-primary-600">Frequentes</span>
           </h2>
           <p className="text-lg text-gray-500">
-            Tudo que você precisa saber sobre os ebooks da Destravando Tech.
+            Tudo que você precisa saber sobre os e-books da Destravando Tech.
           </p>
         </div>
 

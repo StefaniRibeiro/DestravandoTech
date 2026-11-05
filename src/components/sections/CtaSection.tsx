@@ -21,7 +21,7 @@ export function CtaSection() {
           Pronto para começar sua jornada em TI?
         </h2>
         <p className="text-white/80 text-lg mb-8 max-w-xl mx-auto">
-          Baixe agora os ebooks gratuitos e comece a aprender hoje mesmo. São mais de 500 páginas de conteúdo pensados para você!
+          Baixe agora os nossos e-books gratuitos e comece a aprender hoje mesmo. São mais de 500 páginas de conteúdo pensados para você!
         </p>
         <Button
           size="lg"
@@ -32,7 +32,7 @@ export function CtaSection() {
           className="!bg-white !text-primary-700 hover:!bg-gray-50 !shadow-xl"
         >
           <span>📚</span>
-          Explorar todos os ebooks
+          Explorar todos os e-books
         </Button>
       </div>
     </section>

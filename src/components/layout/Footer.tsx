@@ -27,7 +27,7 @@ export function Footer() {
             <ul className="space-y-2 text-sm">
               {[
                 { label: 'Início', href: '#hero' },
-                { label: 'Catálogo de Ebooks', href: '#ebooks' },
+                { label: 'Catálogo de E-books', href: '#ebooks' },
                 { label: 'Equipe', href: '#equipe' },
                 { label: 'Perguntas Frequentes', href: '#faq' },
               ].map((link) => (

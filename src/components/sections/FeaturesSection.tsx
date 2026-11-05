@@ -2,7 +2,7 @@ const features = [
   {
     icon: '🆓',
     title: '100% Gratuito',
-    description: 'Todos os ebooks são completamente gratuitos. Sem cadastro, sem cartão, sem pegadinhas.',
+    description: 'Todos os e-books são completamente gratuitos. Sem cadastro, sem cartão, sem pegadinhas.',
   },
   {
     icon: '📱',

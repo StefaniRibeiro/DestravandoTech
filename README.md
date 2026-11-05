@@ -2,7 +2,7 @@
 
 # 🚀 Destravando Tech — Frontend
 
-### *Plataforma web para disponibilização gratuita de guias e ebooks sobre carreiras em TI.*
+### *Plataforma web para disponibilização gratuita de guias e e-books sobre carreiras em TI.*
 
 [![React](https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -82,7 +82,7 @@ src/
 
 ---
 
-## ➕ Adicionando Novos Ebooks
+## ➕ Adicionando Novos E-books
 
 1. Copie o PDF para a pasta `public/ebooks/`.
-2. Adicione os metadados do ebook em `src/data/ebooks.ts`.
+2. Adicione os metadados do e-book em `src/data/ebooks.ts`.

@@ -13,7 +13,7 @@ const teamMembers = [
   {
     name: 'Arthur Magno',
     role: 'Criador de Conteúdo',
-    description: 'Co-criador dos ebooks, dedicado a transformar conceitos complexos de TI em material didático claro e acessível para iniciantes.',
+    description: 'Co-criador dos e-books, dedicado a transformar conceitos complexos de TI em material didático claro e acessível para iniciantes.',
     github: 'https://github.com/Magnao0507',
     username: 'Magnao0507',
     avatar: 'https://github.com/Magnao0507.png',
@@ -24,7 +24,7 @@ const teamMembers = [
   {
     name: 'Ryan Anry',
     role: 'Criador de Conteúdo',
-    description: 'Co-criador dos ebooks, apaixonado por democratizar o acesso ao conhecimento tecnológico e ajudar iniciantes a darem seus primeiros passos.',
+    description: 'Co-criador dos e-books, apaixonado por democratizar o acesso ao conhecimento tecnológico e ajudar iniciantes a darem seus primeiros passos.',
     github: 'https://github.com/kl3inn',
     username: 'kl3inn',
     avatar: 'https://github.com/kl3inn.png',
@@ -35,7 +35,7 @@ const teamMembers = [
   {
     name: 'Rogério Fatico',
     role: 'Criador de Conteúdo',
-    description: 'Co-criador dos ebooks, dedicado a desenvolver conteúdos práticos e didáticos para capacitar novos talentos na área de tecnologia.',
+    description: 'Co-criador dos e-books, dedicado a desenvolver conteúdos práticos e didáticos para capacitar novos talentos na área de tecnologia.',
     github: 'https://github.com/Rogerfatico',
     username: 'Rogerfatico',
     avatar: 'https://github.com/Rogerfatico.png',
@@ -46,7 +46,7 @@ const teamMembers = [
   {
     name: 'Pablo Deodato',
     role: 'Designer',
-    description: 'Responsável pela identidade visual dos ebooks e pelos materiais de divulgação do projeto — panfletos, cartazes e peças gráficas que levam o conhecimento ainda mais longe.',
+    description: 'Responsável pela identidade visual dos e-books e pelos materiais de divulgação do projeto — panfletos, cartazes e peças gráficas que levam o conhecimento ainda mais longe.',
     github: 'https://github.com/PabloDeodato',
     username: 'PabloDeodato',
     avatar: 'https://github.com/PabloDeodato.png',
